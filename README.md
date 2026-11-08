@@ -1,9 +1,20 @@
 # CHCNAV フリスクスイッチで自動操舵ON/OFF（RP2040-Zero）
 
-北海道の島貫農園さんのブログ記事を参考に作成した、RP2040-Zeroを用いたCHCNAV自動操舵用のフリスクスイッチ（マウスエミュレーター）のプログラムとメモです。
+RP2040-Zeroを用いたCHCNAV自動操舵用のフリスクスイッチ（マウスエミュレーター）のプログラムとメモです。
 
-- 記事元: [島貫農園ブログ](https://www.shimanuki-farm.net/archives/2159/)
 - 使用マイコン: RP2040-Zero (CircuitPython)
+
+## 関連動画（YouTube）
+
+フリスクスイッチの作製手順およびアップデートに関する解説動画です。
+
+### 1. フリスクスイッチで自動操舵ONOFF（作製・使用上の注意点）
+[![フリスクスイッチで自動操舵ONOFF CHCNAV スイッチ作製・使用上の注意点](https://img.youtube.com/vi/2cvfJ65sIZ8/hqdefault.jpg)](https://youtu.be/2cvfJ65sIZ8)
+> [動画を見る（YouTube）](https://youtu.be/2cvfJ65sIZ8)
+
+### 2. フリスクスイッチで自動操舵ONOFF（CHCNAV 対応状況好転！）
+[![フリスクスイッチで自動操舵ONOFF CHCNAV 対応状況好転](https://img.youtube.com/vi/OXriv8mp1M8/hqdefault.jpg)](https://youtu.be/OXriv8mp1M8)
+> [動画を見る（YouTube）](https://youtu.be/OXriv8mp1M8)
 
 ## 必要なパーツ・リンク
 - マルチコアボードモジュール RP2040-Zero
